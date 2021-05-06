@@ -25,4 +25,16 @@ HashRouter사용하여 주소값 = # 변경
 네비바 about 페이지 추가
 
 
+1 . git pages 사용
+
+2 . https://yts.mx/api#list_movies 에서 api사용 하여 영화 리스트 json 가져옴
+
+3 . only react add router
+
+4 . 네비바 추가
+
+5 . 영화 디테일 페이지 추가 location으로 detail가져옴
+
+6 . slice 사용 내용 길이 조절
+
 
